@@ -117,13 +117,17 @@ Searching for pairing service requires access to the local network, and many man
 
 ### Start via wireless debugging: immediately fail after tapping "Enter pairing code"
 
-#### MIUI (Xiaomi, POCO)
+#### (zte blade a5,POCO)
 
 Switch notification style to "Android" from "Notification" - "Notification shade" in system settings.
 
 ### Start via wireless debugging/Start by connecting to a computer: the permission of adb is limited
 
-#### MIUI (Xiaomi, POCO)
+#### MIU(zte blade a5
+
+https://github.com/RikkaApps/websites/assets/137670075/7c3375bf-fb79-490a-9523-adecf83ea525
+
+, POCO)
 
 Enable "USB debugging (Security options)" in "Developer options". **Note that this is a separate option from "USB debugging".**
 
